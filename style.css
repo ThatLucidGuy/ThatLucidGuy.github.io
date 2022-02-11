@@ -80,7 +80,7 @@ nav {
 }
 .intro_main {
   background-color: var(--bg-blck-op);
-  background-image: url(images/foo-visuals-5AMSZcgN_cM-unsplash.jpg);
+  background-image: url(/foo-visuals-5AMSZcgN_cM-unsplash.jpg);
   background-blend-mode: multiply;
   background-size: cover;
   height: 80vh;
@@ -205,7 +205,7 @@ form {
   align-items: center;
 
   background-color: #0806066b;
-  background-image: url(images/esma-soGaUUh-2w4-unsplash.jpg);
+  background-image: url(/esma-soGaUUh-2w4-unsplash.jpg);
   background-position: center center;
   background-blend-mode: multiply;
   background-size: cover;
