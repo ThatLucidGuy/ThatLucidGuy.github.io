@@ -20,6 +20,8 @@
   --br-med: 10px;
   --pad-med: 10px;
 }
+html{
+scroll-behavior:smooth;} 
 *,
 ::after,
 ::before {
